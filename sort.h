@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <stddef.h>
 
-/* Macros for bitonis sort(Comparison direction) */
 
 /**
  * struct listint_s - doubly linked list node
