@@ -7,6 +7,12 @@
 
 /* Macros for bitonis sort(Comparison direction) */
 
+/**
+ * struct listint_s - doubly linked list node
+ * @n: integer in node
+ * @prev: pointer to the previous element in list
+ * @next: pointer to next element in list
+ */
 typedef struct listint_s
 {
 	const int n;
@@ -14,6 +20,12 @@ typedef struct listint_s
 	struct listint_s *next;
 } listint_t;
 
+/**
+ * enum bool - boolean
+ * @false: 0
+ * @true: 1
+ *
+ */
 typedef enum bool
 {
 	false = 0,
