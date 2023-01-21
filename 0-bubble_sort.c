@@ -1,8 +1,3 @@
-/*
- * File Name: 0-bubble_sort.c
- * Done by: Francis Onyach and Caroline Kimatu
- */
-
 #include "sort.h"
 
 /**
